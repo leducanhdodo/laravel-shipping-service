@@ -1,5 +1,6 @@
 # Shipping service
 
+This is a sample shipping service. This program is about to calculate the shipping fee of orders based on dimensions, weight,...
 ## Starting a new project
 
 ##### Copy environment file

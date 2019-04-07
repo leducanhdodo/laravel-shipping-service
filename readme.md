@@ -6,7 +6,8 @@
 
 Open a terminal and copy the env file for your current environment:
 ```
-cp environments/develop.env .env
+cp environments/.env.develop .env
+cp environments/.env.testing .env.testing
 ```
 
 ##### Composer install
